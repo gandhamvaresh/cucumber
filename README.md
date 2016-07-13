@@ -10,7 +10,7 @@ Move it under your folder.
     jruby --version
 
 ### OS X / Linux
-
+http://www.johng.co.uk/2010/10/13/run_capybara_and_cucumber_features_in_internet_explorer_on_remote_windows/
 Follow instructions on http://rvm.io/
 
 ## Install Cucumber
